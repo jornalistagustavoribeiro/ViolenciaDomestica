@@ -1,5 +1,5 @@
 # ViolenciaDomestica
-Limpeza e filtragem de dados referentes a crimes relacionados com violência doméstica utilizando Python e as bibliotecas pandas e NumPy. Feito no no Jupyter Notebook.
+Limpeza e filtragem de dados referentes a crimes relacionados com violência doméstica utilizando Python e as bibliotecas pandas, NumPy e Matplotlib. Feito no no Jupyter Notebook.
 
 # Requerimentos:
 
