@@ -7,7 +7,7 @@ Anaconda3, pandas, jupyter notebook
 
 # Uso:
 
-O arquivo violencia.ipynb mostra como filtrar os dados do Auxilio emergencial.
+O arquivo violencia.ipynb mostra como filtrar os dados da Secretaria de Segurança Pública.
 
 # Autor:
 
